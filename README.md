@@ -7,3 +7,4 @@ please make user to only evere put one character as the second argument, otherwi
 The default character is "#" so `progressbar 50` will also fill the bar up halfway with hashtags.
 
 ![Screenshot](https://github.com/user18130814200115-2/progressbar/blob/master/progressbarScreenshot.png)
+![Screenshot](https://github.com/user18130814200115-2/progressbar/blob/master/progressbarScreenshot_2.png)
