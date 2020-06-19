@@ -6,4 +6,4 @@ run `progressbar $percentage $character` for example `progressbar 50 #` will fil
 please make user to only evere put one character as the second argument, otherwise the width of the progressbar is wider tha the width of the terminal.  
 The default character is "#" so `progressbar 50` will also fill the bar up halfway with hashtags.
 
-![Screenshot][]
+![Screenshot](https://github.com/user18130814200115-2/progressbar/blob/master/progressbarScreenshot.png)
